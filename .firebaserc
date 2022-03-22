@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng1-f7310": {
+      "hosting": {
+        "login": [
+          "login-ng1-f7310"
+        ]
+      }
+    }
+  }
+}
